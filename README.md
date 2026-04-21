@@ -1,5 +1,4 @@
-## Edit:
-# Changes Made By: Danial Mahmoudi
+## Changes Made By: Danial Mahmoudi
 
 # Top Five
 
