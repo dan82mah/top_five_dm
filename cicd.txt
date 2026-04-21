@@ -1,0 +1,3 @@
+Past Experience:
+
+I've had very limited previous experience involving CI/CD. I've done some work involving GitLab, but it's not much!
